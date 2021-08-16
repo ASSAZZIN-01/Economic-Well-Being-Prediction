@@ -2,7 +2,7 @@
 
 ## Brief Description
 
-The objective of this challenge is to build a machine learning model to predict a measure of wealth as measured in household surveys using readily available inputs., have a look on [Zindi](https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge). 
+The objective of this challenge is to build a machine learning model to predict a measure of wealth as measured in household surveys using readily available inputs., have a look on [Zindi](https://zindi.africa/competitions/economic-well-being-prediction-challenge). 
 
 ## About this Repository
 
