@@ -33,7 +33,7 @@ Rank : 1/141
 
 | Name           |                     Zindi ID                     |                  Github ID               |
 |----------------|--------------------------------------------------|------------------------------------------|
-|Azer KSOURI |[@ASSAZZIN](https://zindi.africa/users/ASSAZZIN)      |[@Az-Ks](https://github.com/Az-Ks)        |
+|Azer KSOURI |[@ASSAZZIN](https://zindi.africa/users/ASSAZZIN)      |[@Azer Ksouri]https://github.com/ASSAZZIN-01)        |
 |Caleb Emelike     |[@CalebEmelike](https://zindi.africa/users/CalebEmelike)  |[@CalebEmelike](https://github.com/CalebEmelike)|
 
 
