@@ -23,4 +23,19 @@ Solution Code Pipeline :
       Using Cross validation strategy with K=10 , We  trained an LGBM Model .     
 ```
 
+## [On the Leaderboard](https://zindi.africa/competitions/economic-well-being-prediction-challenge/leaderboard)
+
+Look for the team name : **AKCE** <br>
+Rank : 1/141    
+## Authors
+
+<div align='center'>
+
+| Name           |                     Zindi ID                     |                  Github ID               |
+|----------------|--------------------------------------------------|------------------------------------------|
+|Azer KSOURI |[@ASSAZZIN](https://zindi.africa/users/ASSAZZIN)      |[@Az-Ks](https://github.com/Az-Ks)        |
+|Caleb Emelike     |[@CalebEmelike](https://zindi.africa/users/CalebEmelike)  |[@CalebEmelike]()|
+
+
+</div>
 
